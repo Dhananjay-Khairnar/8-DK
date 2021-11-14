@@ -2,7 +2,7 @@
 
 ### :smiley_cat: I am a software developer
 
-### so, curently this is my first try making my readme, hope you like it 😄
+### so, curently this is my first try making my readme, hope you like it 😄 ![](https://komarev.com/ghpvc/?username=your-github-username&color=blue)
 
 <a href="https://www.youtube.com/c/ZenElectro_youtube"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
@@ -11,7 +11,7 @@
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=8-DK&theme=tokyonight" alt="mystreak"/>
 ![8-DK's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=8-DK&theme=tokyonight&layout=compact)
 
-🌱 I’m currently learning android in dicoding.com with kotlin
+🌱 I’m currently learning, exploring and working on AI, ML, QT, Drones, Microcontrollers and lot of randome stuff.
 
 <a href="https://www.youtube.com/c/ZenElectro_youtube"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
