@@ -10,7 +10,7 @@
 <a href="https://www.facebook.com/dmkhairnar/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="Dhananjay Khairnar" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/@dhananjay_khairnar" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="@dhananjay_khairnar" height="30" width="40" /></a>
 <a href="https://leetcode.com/Dhananjay_KHairnar/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/leetcode.svg" alt="dhananjay_khairnar" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/dhananjay_khairnar/profile" target="blank"><img align="center" src="https://cdn.jsdelivr.n### Hi there 👋
+<a href="https://auth.geeksforgeeks.oryour-github-usernameg/user/dhananjay_khairnar/profile" target="blank"><img align="center" src="https://cdn.jsdelivr.n### Hi there 👋
 2
 ​
 3
@@ -62,7 +62,6 @@ et/npm/simple-icons@3.0.1/icons/geeksforgeeks.svg" alt="dhananjay_khairnar" heig
 </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=8-DK&label=Profile%20views&color=0e75b6&style=flat" alt="8-DK" /> </p>
-<p align="left"> ![](https://komarev.com/ghpvc/?username=8-DK)</p>
 <img align="right" width=300px alt="Unicorn" src="https://media.giphy.com/media/3ohs4BSacFKI7A717y/giphy.gif" />
 
 <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***Talking about Personal Stuffs...***
