@@ -3,7 +3,7 @@
 </p>
 <hr>
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Dhananjay Khairnar</h1>
-<h3 align="center">![](https://komarev.com/ghpvc/?username=your-github-username&color=blue)</h3>
+<a href="https://www.youtube.com/c/ZenElectro_youtube" target="blank" align="center">![](https://komarev.com/ghpvc/?username=8-DK&color=blue)
 <h3 align="center">Software Engineer | Technical Content Writer | Data Analysis Enthusiast</h3>
 <p align="center">
 <a href="https://www.linkedin.com/in/khairnardm/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="aksia" height="30" width="40" /></a>
