@@ -62,6 +62,7 @@ et/npm/simple-icons@3.0.1/icons/geeksforgeeks.svg" alt="dhananjay_khairnar" heig
 </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=8-DK&label=Profile%20views&color=0e75b6&style=flat" alt="8-DK" /> </p>
+<p align="left"> 😄 ![](https://komarev.com/ghpvc/?username=your-github-username&color=blue)</p>
 <img align="right" width=300px alt="Unicorn" src="https://media.giphy.com/media/3ohs4BSacFKI7A717y/giphy.gif" />
 
 <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***Talking about Personal Stuffs...***
