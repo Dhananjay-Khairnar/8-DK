@@ -51,7 +51,7 @@ et/npm/simple-icons@3.0.1/icons/geeksforgeeks.svg" alt="dhananjay_khairnar" heig
 
 <p align="center">
   <em>
-    This is ME, Dhananjay Khairnar, a <b>final year</b> undergraduate from <a href="https://www.acetamritsar.ac.in/"> <b>Amritsar college of engineering & technology</b>, amritsar</a>. <br>
+    This is ME, Dhananjay Khairnar, I have <b>graduated</b>in bachelor degree of </b>Electronics and Telecommunications</b> from college <a href="https://www.sapkalknowledgehub.org/"> <b>Sapkal Knowledge Hub</b>, Nashik</a>. <br>
     A budding <b>Full-Stack Software Developer</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px"> and a <b>Competitive Programming Enthusiast</b>&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Designer.gif" width="36px">&nbsp,<br>who is <b>obsessed</b>
     with the idea of <b>improving</b> himself and wants a <b>platform</b> to 
     <b>grow</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Rocket.gif" width="18px">and 
