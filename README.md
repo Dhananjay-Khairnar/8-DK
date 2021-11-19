@@ -61,6 +61,8 @@ et/npm/simple-icons@3.0.1/icons/geeksforgeeks.svg" alt="dhananjay_khairnar" heig
   <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50" /> <b><i>Learning while HOPING & HUSTLING!!!</i></b> <img src="https://media.giphy.com/media/7j2hfyeVcDtf2/giphy.gif" width="50" />
 </p>
 
+[![FlagCounter](https://s01.flagcounter.com/count2/1NC0/bg_FFFFFF/txt_000000/border_CCCCCC/columns_8/maxflags_40/viewers_0/labels_1/pageviews_0/flags_0/percent_0/)](https://info.flagcounter.com/A4bA)
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=8-DK&label=Profile%20views&color=0e75b6&style=flat" alt="8-DK" /> </p>
 <img align="right" width=300px alt="Unicorn" src="https://media.giphy.com/media/3ohs4BSacFKI7A717y/giphy.gif" />
 
